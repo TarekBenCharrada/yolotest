@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='yolotest',
+    name='yolov7',
     version='',
-    packages=['yolov'],
+    packages=['yolov7'],
     url='',
     license='',
     author='wali',
